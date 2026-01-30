@@ -27,7 +27,8 @@ I love working on web apps, cybersecurity tools, and modern cloud infrastructure
 
 Here are some of my active and public projects 👇
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nikolinm&repo=cyberscan-dashboard&theme=tokyonight)](https://github.com/nikolinm/cyberscan-dashboard)
+[![CyberScan Dashboard](https://github-readme-stats-fast.vercel.app/api/pin/?username=nikolinm&repo=cyberscan-dashboard)](https://github.com/nikolinm/cyberscan-dashboard)
+
 
 ⭐ **“Building secure, smart, and scalable systems - one repo at a time.”**
 
